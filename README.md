@@ -1,4 +1,5 @@
 # VScode Server - Bioinformatics course
+#LETSGOSKI
 
 This is a no-content repository, with the sole purpose of facilitating the launch of a VScode environment provisioned through a Docker image and run using either [GitHub CodeSpaces](https://docs.github.com/en/codespaces/overview) or [Gitpod](https://www.gitpod.io/docs/introduction).
 
@@ -34,7 +35,7 @@ In order to run this space with GitPod, please make sure:
 
 Now you're all set and can use the following button to launch the service.
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/lescai-teaching/environment-bsa-vscode)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/FABIOLUCAGUZZI/class-variantcalling)
 
 Just click on "Continue (ctrl + enter)" to go on with the workspace set up.
 
