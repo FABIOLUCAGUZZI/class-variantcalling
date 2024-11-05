@@ -1,5 +1,4 @@
 # VScode Server - Bioinformatics course
-# LETSGOSKI
 
 This is a no-content repository, with the sole purpose of facilitating the launch of a VScode environment provisioned through a Docker image and run using either [GitHub CodeSpaces](https://docs.github.com/en/codespaces/overview) or [Gitpod](https://www.gitpod.io/docs/introduction).
 
